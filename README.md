@@ -2,7 +2,14 @@
 
 A modern React application that allows users to explore SpaceX launches with advanced filtering, search capabilities, and favorites management. Built as part of the **Atmosly React Intern Assignment**.
 
-![SpaceX Mission Explorer](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.0-38B2AC) ![Testing](https://img.shields.io/badge/Testing-Vitest-4FC08D)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Now-green)](https://atmosly-assignment.vercel.app/)
+[![SpaceX Mission Explorer](https://img.shields.io/badge/React-19.1.1-blue)](https://atmosly-assignment.vercel.app/) ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.0-38B2AC) ![Testing](https://img.shields.io/badge/Testing-Vitest-4FC08D)
+
+## 🌐 Live Demo
+
+**🔗 [View Live Application](https://atmosly-assignment.vercel.app/)**
+
+Experience the full SpaceX Mission Explorer with real-time data from the SpaceX API, advanced filtering, favorites system, and responsive design.
 
 ## 📋 Assignment Overview
 
